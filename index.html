@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Time and Place</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fafafa;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    header {
+      padding: 1rem;
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-align: center;
+      background: #ffffff;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      padding: 1rem;
+    }
+    #photo-container {
+      max-width: 90vw;
+      max-height: 60vh;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      cursor: zoom-in;
+    }
+    #photo {
+      width: 100%;
+      height: auto;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+    #photo.zoomed {
+      transform: scale(2);
+      cursor: zoom-out;
+    }
+    #map-container {
+      position: absolute;
+      bottom: 1rem;
+      right: 1rem;
+      width: 300px;
+      height: 200px;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;
+      resize: both;
+      background: white;
+    }
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+    .slider-container {
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    input[type="range"] {
+      width: 300px;
+    }
+    .submit-button {
+      margin-top: 1rem;
+      padding: 0.5rem 1.5rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      background-color: #007BFF;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    .submit-button:hover {
+      background-color: #0056b3;
+    }
+    #results {
+      margin-top: 1rem;
+      font-size: 1rem;
+    }
+  </style>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+  <header>Time and Place</header>
+  <main>
+    <div id="photo-container">
+      <img id="photo" src="photo1.png" alt="Mystery Photo">
+    </div>
+
+    <div class="slider-container">
+      <label for="year">Estimated Year: <span id="year-value">2000</span></label>
+      <input type="range" id="year" min="1900" max="2025" value="2000">
+      <button class="submit-button" onclick="submitGuess()">Submit Guess</button>
+    </div>
+
+    <div id="results"></div>
+
+    <div id="map-container">
+      <div id="map"></div>
+    </div>
+  </main>
+
+  <script>
+    const correctData = {
+      lat: 41.889922816837895,
+      lng: 12.491949721379488,
+      year: 2020,
+    };
+
+    const map = L.map('map').setView([20, 0], 2);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    let marker = null;
+    let guessCoords = null;
+
+    map.on('click', function(e) {
+      if (marker) map.removeLayer(marker);
+      marker = L.marker(e.latlng).addTo(map);
+      guessCoords = e.latlng;
+    });
+
+    document.getElementById('year').addEventListener('input', (e) => {
+      document.getElementById('year-value').innerText = e.target.value;
+    });
+
+    function submitGuess() {
+      const guessedYear = parseInt(document.getElementById('year').value);
+
+      if (!guessCoords || isNaN(guessedYear)) {
+        alert("Please select a year and click on the map.");
+        return;
+      }
+
+      const distance = getDistanceFromLatLonInKm(guessCoords.lat, guessCoords.lng, correctData.lat, correctData.lng);
+      const yearDiff = Math.abs(correctData.year - guessedYear);
+
+      const resultText = `Distance: ${distance.toFixed(1)} km<br>Year difference: ${yearDiff} year(s)`;
+      document.getElementById('results').innerHTML = resultText;
+    }
+
+    function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
+      const R = 6371;
+      const dLat = deg2rad(lat2 - lat1);
+      const dLon = deg2rad(lon2 - lon1);
+      const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return R * c;
+    }
+
+    function deg2rad(deg) {
+      return deg * (Math.PI / 180);
+    }
+
+    const photo = document.getElementById('photo');
+    photo.addEventListener('click', () => {
+      photo.classList.toggle('zoomed');
+    });
+  </script>
+</body>
+</html>
