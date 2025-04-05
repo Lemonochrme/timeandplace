@@ -47,7 +47,7 @@
       position: absolute;
       bottom: 1rem;
       right: 1rem;
-      width: 320px;
+      width: 420px;
       background: white;
       padding: 1rem;
       border-radius: 10px;
@@ -134,7 +134,7 @@
   <header>Time and Place</header>
   <main>
     <div id="photo-container">
-      <img id="photo" src="photo1.png" alt="Mystery Photo">
+      <img id="photo" src="" alt="Mystery Photo">
     </div>
 
     <div id="map-control">
@@ -154,19 +154,26 @@
   </main>
 
   <script>
-    const correctData = {
-      lat: 48.8584,
-      lng: 2.2945,
-      year: 2001,
-    };
+    let correctData = null;
+    let guessCoords = null;
+    let marker = null;
+
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        const random = data[Math.floor(Math.random() * data.length)];
+        document.getElementById('photo').src = 'images/' + random.filename;
+        correctData = {
+          lat: random.lat,
+          lng: random.lng,
+          year: random.year
+        };
+      });
 
     const map = L.map('map').setView([20, 0], 2);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
-
-    let marker = null;
-    let guessCoords = null;
 
     map.on('click', function(e) {
       if (marker) map.removeLayer(marker);
@@ -182,7 +189,7 @@
     function submitGuess() {
       const guessedYear = parseInt(yearSlider.value);
 
-      if (!guessCoords || isNaN(guessedYear)) {
+      if (!guessCoords || !correctData || isNaN(guessedYear)) {
         alert("Please select a year and click on the map.");
         return;
       }
