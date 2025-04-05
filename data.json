@@ -1,15 +1,15 @@
 [
     {
-      "filename": "photo1.png",
-      "lat": 48.8584,
-      "lng": 2.2945,
-      "year": 2001
+      "filename": "image1.png",
+      "lat": 48.8530,
+      "lng": 2.3497,
+      "year": 2015
     },
     {
-      "filename": "photo2.png",
-      "lat": 40.7128,
-      "lng": -74.0060,
-      "year": 1995
+      "filename": "image2.png",
+      "lat": 48.8462,
+      "lng": 2.3366,
+      "year": 1973
     }
   ]
   
