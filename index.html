@@ -14,9 +14,7 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background-color: #fafafa;
       color: #333;
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
+      overflow: hidden;
     }
     header {
       padding: 1rem;
@@ -27,74 +25,87 @@
       border-bottom: 1px solid #e0e0e0;
     }
     main {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
+      width: 100vw;
+      height: calc(100vh - 64px);
       position: relative;
-      padding: 1rem;
+      overflow: hidden;
     }
     #photo-container {
-      max-width: 90vw;
-      max-height: 60vh;
+      width: 100%;
+      height: 100%;
       overflow: hidden;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      cursor: zoom-in;
     }
     #photo {
       width: 100%;
-      height: auto;
-      display: block;
-      transition: transform 0.3s ease;
+      height: 100%;
+      object-fit: contain;
+      cursor: grab;
+      transition: filter 0.3s;
     }
-    #photo.zoomed {
-      transform: scale(2);
-      cursor: zoom-out;
+    #photo:active {
+      cursor: grabbing;
     }
-    #map-container {
+    #map-control {
       position: absolute;
       bottom: 1rem;
       right: 1rem;
-      width: 300px;
-      height: 200px;
-      border: 2px solid #ccc;
-      border-radius: 8px;
-      overflow: hidden;
-      resize: both;
+      width: 320px;
       background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      resize: both;
+      overflow: auto;
     }
     #map {
       width: 100%;
-      height: 100%;
+      height: 200px;
+      border-radius: 8px;
     }
-    .slider-container {
-      margin-top: 2rem;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    .slider-container label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
     }
-    input[type="range"] {
-      width: 300px;
+    .slider-container input[type="range"] {
+      width: 100%;
     }
     .submit-button {
-      margin-top: 1rem;
-      padding: 0.5rem 1.5rem;
-      font-size: 1rem;
-      border: none;
-      border-radius: 5px;
+      padding: 0.5rem 1rem;
       background-color: #007BFF;
       color: white;
+      border: none;
+      border-radius: 5px;
       cursor: pointer;
-      transition: background-color 0.2s;
     }
     .submit-button:hover {
       background-color: #0056b3;
     }
-    #results {
-      margin-top: 1rem;
-      font-size: 1rem;
+    #results-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      backdrop-filter: blur(5px) grayscale(100%);
+      background-color: rgba(0, 0, 0, 0.4);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      font-weight: bold;
+      z-index: 10;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.5s ease;
+    }
+    #results-overlay.show {
+      opacity: 1;
+      pointer-events: all;
     }
   </style>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -106,34 +117,34 @@
       <img id="photo" src="photo1.png" alt="Mystery Photo">
     </div>
 
-    <div class="slider-container">
-      <label for="year">Estimated Year: <span id="year-value">2000</span></label>
-      <input type="range" id="year" min="1900" max="2025" value="2000">
+    <div id="map-control">
+      <div id="map"></div>
+      <div class="slider-container">
+        <label for="year">Estimated Year: <span id="year-value">2000</span></label>
+        <input type="range" id="year" min="1900" max="2025" value="2000">
+      </div>
       <button class="submit-button" onclick="submitGuess()">Submit Guess</button>
     </div>
 
-    <div id="results"></div>
-
-    <div id="map-container">
-      <div id="map"></div>
-    </div>
+    <div id="results-overlay"></div>
   </main>
 
   <script>
     const correctData = {
-      lat: 41.889922816837895,
-      lng: 12.491949721379488,
-      year: 2020,
+      lat: 48.8584,
+      lng: 2.2945,
+      year: 2001,
     };
 
     const map = L.map('map').setView([20, 0], 2);
-
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
     let marker = null;
     let guessCoords = null;
+    let isDragging = false;
+    let startX, startY, scrollLeft, scrollTop;
 
     map.on('click', function(e) {
       if (marker) map.removeLayer(marker);
@@ -141,12 +152,13 @@
       guessCoords = e.latlng;
     });
 
-    document.getElementById('year').addEventListener('input', (e) => {
+    const yearSlider = document.getElementById('year');
+    yearSlider.addEventListener('input', (e) => {
       document.getElementById('year-value').innerText = e.target.value;
     });
 
     function submitGuess() {
-      const guessedYear = parseInt(document.getElementById('year').value);
+      const guessedYear = parseInt(yearSlider.value);
 
       if (!guessCoords || isNaN(guessedYear)) {
         alert("Please select a year and click on the map.");
@@ -156,8 +168,10 @@
       const distance = getDistanceFromLatLonInKm(guessCoords.lat, guessCoords.lng, correctData.lat, correctData.lng);
       const yearDiff = Math.abs(correctData.year - guessedYear);
 
-      const resultText = `Distance: ${distance.toFixed(1)} km<br>Year difference: ${yearDiff} year(s)`;
-      document.getElementById('results').innerHTML = resultText;
+      const resultText = `Distance: ${distance.toFixed(1)} km\nYear difference: ${yearDiff} year(s)`;
+      const overlay = document.getElementById('results-overlay');
+      overlay.textContent = resultText;
+      overlay.classList.add('show');
     }
 
     function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
@@ -176,8 +190,31 @@
     }
 
     const photo = document.getElementById('photo');
-    photo.addEventListener('click', () => {
-      photo.classList.toggle('zoomed');
+    let offsetX = 0;
+    let offsetY = 0;
+    let isMouseDown = false;
+
+    photo.addEventListener('mousedown', (e) => {
+      isMouseDown = true;
+      offsetX = e.offsetX;
+      offsetY = e.offsetY;
+      photo.style.cursor = 'grabbing';
+    });
+
+    photo.addEventListener('mouseup', () => {
+      isMouseDown = false;
+      photo.style.cursor = 'grab';
+    });
+
+    photo.addEventListener('mouseleave', () => {
+      isMouseDown = false;
+      photo.style.cursor = 'grab';
+    });
+
+    photo.addEventListener('mousemove', (e) => {
+      if (!isMouseDown) return;
+      photo.scrollLeft += offsetX - e.offsetX;
+      photo.scrollTop += offsetY - e.offsetY;
     });
   </script>
 </body>
