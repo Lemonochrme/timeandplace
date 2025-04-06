@@ -3,12 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Time & Place | OSINT Game</title>
+  <title>Time & Place</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,6 +21,11 @@
       text-align: center;
       background: #ffffff;
       border-bottom: 1px solid #e0e0e0;
+    }
+    #round-counter {
+      font-size: 1rem;
+      margin-top: 0.25rem;
+      color: #666;
     }
     main {
       width: 100vw;
@@ -47,7 +50,7 @@
       position: absolute;
       bottom: 1rem;
       right: 1rem;
-      width: 320px;
+      width: 420px;
       background: white;
       padding: 1rem;
       border-radius: 10px;
@@ -58,10 +61,11 @@
       resize: both;
       overflow: auto;
       z-index: 5;
+      height: auto;
     }
     #map {
       width: 100%;
-      height: 200px;
+      height: 320px;
       border-radius: 8px;
     }
     .slider-container label {
@@ -102,6 +106,8 @@
       opacity: 0;
       pointer-events: none;
       transition: opacity 0.5s ease;
+      text-align: center;
+      padding: 1rem;
     }
     #results-overlay.show {
       opacity: 1;
@@ -132,14 +138,15 @@
 </head>
 <body>
   <header>
-    <img src="icon.png" alt="Icon" style="height: 42px; vertical-align: middle;">
-    Time & Place
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+      <img src="logo.png" alt="Icon" style="height: 42px;">
+      <div id="round-counter" style="font-size: 1rem; color: #666;">Round 1 / 3</div>
+    </div>
   </header>
   <main>
     <div id="photo-container">
       <img id="photo" src="" alt="Mystery Photo">
     </div>
-
     <div id="map-control">
       <div id="map"></div>
       <div class="slider-container">
@@ -148,7 +155,6 @@
       </div>
       <button class="submit-button" onclick="submitGuess()">Submit Guess</button>
     </div>
-
     <div id="results-overlay">
       <div id="results-text"></div>
       <div id="results-map"></div>
@@ -157,21 +163,36 @@
   </main>
 
   <script>
-    let correctData = null;
+    let data = [], round = 0, totalScore = 0;
     let guessCoords = null;
+    let correctData = null;
+    let usedImages = [], currentImage = null;
     let marker = null;
 
     fetch('images_metadata.json')
       .then(response => response.json())
-      .then(data => {
-        const random = data[Math.floor(Math.random() * data.length)];
-        document.getElementById('photo').src = 'images/' + random.filename;
-        correctData = {
-          lat: random.lat,
-          lng: random.lng,
-          year: random.year
-        };
+      .then(json => {
+        data = json;
+        nextRound();
       });
+
+    function nextRound() {
+      round++;
+      document.getElementById('round-counter').textContent = `Round ${round} / 3`;
+      guessCoords = null;
+      marker = null;
+      const available = data.filter(item => !usedImages.includes(item.filename));
+      currentImage = available[Math.floor(Math.random() * available.length)];
+      usedImages.push(currentImage.filename);
+      document.getElementById('photo').src = 'images/' + currentImage.filename;
+      correctData = {
+        lat: currentImage.lat,
+        lng: currentImage.lng,
+        year: currentImage.year
+      };
+      if (map) map.setView([20, 0], 2);
+      if (marker) map.removeLayer(marker);
+    }
 
     const map = L.map('map').setView([20, 0], 2);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -184,36 +205,46 @@
       guessCoords = e.latlng;
     });
 
-    const yearSlider = document.getElementById('year');
-    yearSlider.addEventListener('input', (e) => {
+    document.getElementById('year').addEventListener('input', (e) => {
       document.getElementById('year-value').innerText = e.target.value;
     });
 
     function submitGuess() {
-      const guessedYear = parseInt(yearSlider.value);
-
-      if (!guessCoords || !correctData || isNaN(guessedYear)) {
+      const guessedYear = parseInt(document.getElementById('year').value);
+      if (!guessCoords || isNaN(guessedYear)) {
         alert("Please select a year and click on the map.");
         return;
       }
+      const dist = getDistanceFromLatLonInKm(guessCoords.lat, guessCoords.lng, correctData.lat, correctData.lng);
+      const yearDiff = Math.abs(guessedYear - correctData.year);
+      const placeScore = Math.round(5000 * Math.exp(-dist / 2000));
+      const timeScore = Math.round(5000 * Math.exp(-yearDiff / 8));
+      const total = placeScore + timeScore;
+      totalScore += total;
 
-      const distance = getDistanceFromLatLonInKm(guessCoords.lat, guessCoords.lng, correctData.lat, correctData.lng);
-      const yearDiff = Math.abs(correctData.year - guessedYear);
-
-      const resultText = `Distance: ${distance.toFixed(1)} km\nYear difference: ${yearDiff} year(s)`;
+      const resultText = `Distance: ${dist.toFixed(1)} km\nYear diff: ${yearDiff} year(s)\n (${correctData.year})\n\n Round Score: ${total}`;
       document.getElementById('results-text').textContent = resultText;
-
-      const overlay = document.getElementById('results-overlay');
-      overlay.classList.add('show');
+      document.getElementById('results-overlay').classList.add('show');
 
       const resultsMap = L.map('results-map').setView([correctData.lat, correctData.lng], 2);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; OpenStreetMap contributors'
       }).addTo(resultsMap);
-
-      L.marker([correctData.lat, correctData.lng]).addTo(resultsMap).bindPopup("Correct Location").openPopup();
+      L.marker([correctData.lat, correctData.lng]).addTo(resultsMap).bindPopup("Correct").openPopup();
       L.marker([guessCoords.lat, guessCoords.lng]).addTo(resultsMap).bindPopup("Your Guess");
       L.polyline([[correctData.lat, correctData.lng], [guessCoords.lat, guessCoords.lng]], {color: 'red'}).addTo(resultsMap);
+
+      setTimeout(() => {
+        resultsMap.remove();
+        if (round < 3) {
+          document.getElementById('results-overlay').classList.remove('show');
+          nextRound();
+        } else {
+          document.getElementById('results-text').innerHTML = `🎉 Game Over!<br>Total Score: ${totalScore} / 30000`;
+          document.getElementById('results-map').style.display = 'none';
+          document.querySelector('.replay-button').style.display = 'block';
+        }
+      }, 4000);
     }
 
     function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
