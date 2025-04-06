@@ -3,16 +3,27 @@ import os
 import json
 from urllib.parse import urlparse
 from pathlib import Path
+import re
 
 OUTPUT_DIR = "images"
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 
 HEADERS = {
-    "User-Agent": "TimeAndPlaceBot/1.0"
+    "User-Agent": "TimeAndPlaceBot/1.0 (https://yourdomain.example; contact@example.com)"
 }
 
 def sanitize_filename(url):
     return os.path.basename(urlparse(url).path)
+
+def extract_date(value):
+    # Gère formats comme : "2015:06:24 13:45:00" ou "2024-03-04"
+    match = re.match(r"(\d{4})([-:]?)(\d{2})?([-:]?)(\d{2})?", value)
+    if match:
+        year = match.group(1)
+        month = match.group(3) or "01"
+        day = match.group(5) or "01"
+        return f"{year}-{month.zfill(2)}-{day.zfill(2)}", int(year)
+    return None, None
 
 def get_images_from_category(category, limit=10):
     endpoint = "https://commons.wikimedia.org/w/api.php"
@@ -50,14 +61,30 @@ def get_images_from_category(category, limit=10):
                 lat = coords[0].get("lat")
                 lon = coords[0].get("lon")
 
-            year = None
+            # --- Extraction date complète ---
+            date_raw = None
             if "DateTimeOriginal" in metadata:
-                year = metadata["DateTimeOriginal"]["value"][:4]
+                date_raw = metadata["DateTimeOriginal"]["value"]
             else:
                 for meta in exif:
                     if meta.get("name") == "DateTimeOriginal":
-                        year = meta["value"][:4]
+                        date_raw = meta["value"]
+                        break
 
+            full_date, year = extract_date(date_raw or "")
+
+            # --- Description ---
+            description = metadata.get("ImageDescription", {}).get("value", "").strip()
+
+            # --- Crédits ---
+            author = metadata.get("Artist", {}).get("value", "").strip()
+            license_name = metadata.get("LicenseShortName", {}).get("value", "CC BY-SA")
+            license_url = metadata.get("LicenseUrl", {}).get("value", "")
+            credits = f"{author} / Wikimedia Commons / {license_name}"
+            if license_url:
+                credits += f" ({license_url})"
+
+            # --- Image ---
             img_url = info.get("url")
             if not img_url:
                 continue
@@ -65,7 +92,7 @@ def get_images_from_category(category, limit=10):
             filename = sanitize_filename(img_url)
             local_path = os.path.join(OUTPUT_DIR, filename)
 
-            if lat and lon and year and year.isdigit():
+            if lat and lon and year:
                 if not os.path.exists(local_path):
                     try:
                         img_response = requests.get(img_url, stream=True, headers=HEADERS)
@@ -85,15 +112,20 @@ def get_images_from_category(category, limit=10):
                     "filename": filename,
                     "lat": float(lat),
                     "lng": float(lon),
-                    "year": int(year)
+                    "year": int(year),
+                    "date": full_date if full_date else str(year),
+                    "description": description,
+                    "credits": credits
                 })
 
     return results
 
+# Exemple d'utilisation
 if __name__ == "__main__":
     category = "Cape_Town"
-    images_data = get_images_from_category(category, limit=1)
+    images_data = get_images_from_category(category, limit=20)
 
     with open("images_metadata.json", "w", encoding="utf-8") as f:
-        json.dump(images_data, f, indent=2)
+        json.dump(images_data, f, indent=2, ensure_ascii=False)
+
     print("✅ Metadata saved to images_metadata.json")
