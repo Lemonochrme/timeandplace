@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Time and Place</title>
+  <title>Time & Place | OSINT Game</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     * {
@@ -47,7 +47,7 @@
       position: absolute;
       bottom: 1rem;
       right: 1rem;
-      width: 420px;
+      width: 320px;
       background: white;
       padding: 1rem;
       border-radius: 10px;
@@ -131,7 +131,10 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
 <body>
-  <header>Time and Place</header>
+  <header>
+    <img src="icon.png" alt="Icon" style="height: 42px; vertical-align: middle;">
+    Time & Place
+  </header>
   <main>
     <div id="photo-container">
       <img id="photo" src="" alt="Mystery Photo">
@@ -158,7 +161,7 @@
     let guessCoords = null;
     let marker = null;
 
-    fetch('data.json')
+    fetch('images_metadata.json')
       .then(response => response.json())
       .then(data => {
         const random = data[Math.floor(Math.random() * data.length)];

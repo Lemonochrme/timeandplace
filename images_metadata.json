@@ -1,0 +1,2602 @@
+[
+  {
+    "filename": "image1.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2015,
+    "date": "2015-11-26",
+    "description": "Paris, France",
+    "credits": "Erol Ahmed <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@erol\">erol</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image2.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-10-23",
+    "description": "Paris, France",
+    "credits": "Aidan Meyer <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@aidanjjmeyer\">aidanjjmeyer</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image3.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-08-19",
+    "description": "Paris, France",
+    "credits": "JOHN TOWNER <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@heytowner\">heytowner</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image4.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2017,
+    "date": "2017-06-02",
+    "description": "Paris, France",
+    "credits": "Valentin Antonini <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@valentinant\">valentinant</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image5.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-08-12",
+    "description": "Paris, France",
+    "credits": "All Bong <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@all_bong\">all_bong</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image6.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2017,
+    "date": "2017-05-17",
+    "description": "Paris, France",
+    "credits": "Tran Mau Tri Tam <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tranmautritam\">tranmautritam</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image7.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-04-03",
+    "description": "Paris, France, Anas platyrhynchos.",
+    "credits": "Ravi Singh <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@ravishekharsingh\">ravishekharsingh</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image8.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-02-13",
+    "description": "Paris, France",
+    "credits": "Felipe Dolce <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@felipedolce\">felipedolce</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image9.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2016,
+    "date": "2016-07-07",
+    "description": "Paris, France",
+    "credits": "Greta Schölderle Møller <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@schoelderle\">schoelderle</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image10.png",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2018,
+    "date": "2018-05-18",
+    "description": "Olivier Barrot, a writer, journalist, TV show producer and media personality.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tadesaules&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tadesaules (page does not exist)\">Tadesaules</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image11.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2012,
+    "date": "2012-10-16",
+    "description": "Anthony White Artist Portrait Paris Atelier 2013",
+    "credits": "Christophe Maizou / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image12.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2018,
+    "date": "2018-10-17",
+    "description": "Paris 1990 France working for UPI in North Africa",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Margarethallahan\" title=\"User:Margarethallahan\">Maggie Hallahan</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image13.jpg",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2018,
+    "date": "2018-10-17",
+    "description": "Paris 1990 France working for UPI in North Africa",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Margarethallahan\" title=\"User:Margarethallahan\">Maggie Hallahan</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image14.png",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "year": 2023,
+    "date": "2023-11-22",
+    "description": "The photo depicts Rauz Mazz, a French musician, captured in a moment of concentration while performing. He is standing, playing an electronic instrument, possibly a synthesizer or MIDI controller, which is placed on a table in front of him. The musician is dressed in a black outfit, complete with a simple but elegant chain necklace, adding a touch of style to his ensemble. The setting suggests an intimate concert environment. This image was taken during the third concert of the group Metr0 at an event organized by Sofar Sounds Paris, known for hosting gigs in unique venues around the city.",
+    "credits": "Garronej / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Paris"
+  },
+  {
+    "filename": "image15.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 2017,
+    "date": "2017-01-26",
+    "description": "New York, United States",
+    "credits": "Davide Cantelli <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@cant89\">cant89</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "New York"
+  },
+  {
+    "filename": "image16.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 2016,
+    "date": "2016-12-27",
+    "description": "New York, United States",
+    "credits": "Brendan Church <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@bdchu614\">bdchu614</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "New York"
+  },
+  {
+    "filename": "image17.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 2018,
+    "date": "2018-10-25",
+    "description": "Here Grows New York - official film poster",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mdzhang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mdzhang (page does not exist)\">Myles Zhang</a> / Wikimedia Commons / CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)",
+    "city": "New York"
+  },
+  {
+    "filename": "image18.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 2020,
+    "date": "2020-08-13",
+    "description": "Jonathan Krane is an American businessman and the founder and CEO of KraneShares.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hjg28&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hjg28 (page does not exist)\">Hjg28</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "New York"
+  },
+  {
+    "filename": "image19.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 1965,
+    "date": "1965-03-27",
+    "description": "The New York City Hall was built in 1811,  I presume that it is largely ceremonial by now.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24736216@N07\">Roger W</a> from Sarasota, Florida, U.S.A. / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "New York"
+  },
+  {
+    "filename": "image20.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 1920,
+    "date": "1920-01-01",
+    "description": "Fannie Simon 1920 US Passport Photo",
+    "credits": "Unknown author<span style=\"display: none;\">Unknown author</span> / Wikimedia Commons / Public domain",
+    "city": "New York"
+  },
+  {
+    "filename": "image21.jpg",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 1940,
+    "date": "1940-11-25",
+    "description": "\"The moment Simon Osson traces the deep marks of his family's legacy, uncovering the inheritance of Frank Lucas.\"",
+    "credits": "jonny toreera / Wikimedia Commons / Public domain",
+    "city": "New York"
+  },
+  {
+    "filename": "image22.webp",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "year": 1950,
+    "date": "1950-03-01",
+    "description": "Chaim Traveled to America aboard the USS General MB Stewart, arriving September 7 1951",
+    "credits": "Unknown author<span style=\"display: none;\">Unknown author</span> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "New York"
+  },
+  {
+    "filename": "image23.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2009,
+    "date": "2009-11-14",
+    "description": "London Taxi International black cab.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33756577@N08\">Mic</a> from Reading - Berkshire, United Kingdom / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image24.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2009,
+    "date": "2009-11-14",
+    "description": "Vauxhall Astra from the Metropolitan Police in action.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33756577@N08\">Mic</a> from Reading - Berkshire, United Kingdom / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image25.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2009,
+    "date": "2009-11-14",
+    "description": "<p>BMW 5-Series (530d) from the Metropolitan Police.\n</p>\nDate of First Registration: 01 April 2009",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33756577@N08\">Mic</a> from Reading - Berkshire, United Kingdom / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image26.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2016,
+    "date": "2016-06-07",
+    "description": "London June 7 2016 029 Police",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/12982516@N02\">DAVID HOLT</a> from London, England / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image27.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2017,
+    "date": "2017-01-20",
+    "description": "<p>In London there were several protests against Trump's inauguration including one of over one thousand demonstrators outside the US Embassy and another of several hundred at Trafalgar Square and these among a weekend of protests across 20 UK towns and cities with the largest event - The Women's March against Trump and sexism planned for Saturday in central London with over 17,000 signed up on Facebook.\n</p><p>The weekend of protests was also backed by 50 members of Britain's parliament including including  Shadow Foreign Secretary Emily Thornberry and Shadow Home Secretary Diane Abbott.  \n</p><p>Demonstrators gathered outside the US embassy from late afternoon on Friday 20th January including singer and songwriter Lilly Allen. The slogans on the banners and chants included \"hey ho, sexist Trump has got to go\" and \"No fascist USA, No Trump, No KKK\". \n</p>\nWhile the label \"fascist\" is often used inappropriately there is I think some justification here using it to a leader who tries to promote nationalism and xenophobia while expanding America's already vast military along with a pledge to restore torture and threats of unilateral military action against \"unfriendly\" countries.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59952459@N08\">Alisdare Hickson</a> from Canterbury, United Kingdom / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image28.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2016,
+    "date": "2016-06-05",
+    "description": "London, United Kingdom",
+    "credits": "Clem Onojeghuo <a rel=\"nofollow\" class=\"external text\" href=\"http://unsplash.com/@clemono2\">clemono2</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image29.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2016,
+    "date": "2016-12-28",
+    "description": "London, United Kingdom",
+    "credits": "Alex Iby <a rel=\"nofollow\" class=\"external text\" href=\"http://unsplash.com/@ibydesigns\">ibydesigns</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image30.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2016,
+    "date": "2016-09-08",
+    "description": "London, United Kingdom",
+    "credits": "Toa Heftiba <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@heftiba\">heftiba</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image31.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2016,
+    "date": "2016-06-17",
+    "description": "London, United Kingdom",
+    "credits": "Blubel <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@blubel\">blubel</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image32.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2017,
+    "date": "2017-03-22",
+    "description": "London, United Kingdom",
+    "credits": "Edvinas Bruzas <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@edvinasbruzas\">edvinasbruzas</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image33.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2015,
+    "date": "2015-09-05",
+    "description": "London, United Kingdom",
+    "credits": "Malcolm Green <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@malcolmgreen\">malcolmgreen</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "London"
+  },
+  {
+    "filename": "image34.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2017,
+    "date": "2017-10-13",
+    "description": "London October 13 2017 (92) Jigsaw",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/12982516@N02\">DAVID HOLT</a> from London, England / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image35.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2018,
+    "date": "2018-09-22",
+    "description": "A photograph from the interior of the main debate tent at HowTheLightGetsIn Festival in 2018",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bothansindisguise&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bothansindisguise (page does not exist)\">Bothansindisguise</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image36.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2018,
+    "date": "2018-07-07",
+    "description": "Pride London",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Camerawalker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Camerawalker (page does not exist)\">Camerawalker</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image37.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2020,
+    "date": "2020-02-17",
+    "description": "A close-up of the facial features in a standard long-haired tabby adult domestic cat with brown fur and white markings",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:BessieMaelstrom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:BessieMaelstrom (page does not exist)\">BessieMaelstrom</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image38.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2021,
+    "date": "2021-11-10",
+    "description": "On a lonely traffic island - you wouldn't notice the plaque.\n<p>In 1290 Eleanor of Castile, the beloved wife of Edward I and mother of his 14 children, died at Harby in Nottinghamshire. The places where her body rested during the journey south to its tomb in Westminster Abbey were marked by stone crosses.\n</p><p>The twelve crosses were at Lincoln, Grantham, Stamford, Geddington, Hardingstone, Stony Stratford, Woburn, Dunstable, St. Albans, Waltham (Cross), Westcheap (Cheapside), Charing (Charing Cross). Of these only three of the original crosses survive, those at Geddington, Hardingstone and Waltham Cross.\n</p><p>Queen Eleanor was three times buried. The tomb, containing her viscera, is in Lincoln Cathedral. Her heart was buried at Blackfriars Monastery in London and her body in Westminster Abbey.\n</p><p>Edward was determined to mark the death of his remarkable Queen in significant and elaborate fashion. There has been nothing like the cortège of Eleanor, before or since, on this island. Her embalmed body was dressed in loose robes, crowned, and placed on an open bier. The procession, with the Queen’s chaplain at its head and Edward following the bier, left Lincoln on 4 December. The journey back to Westminster took just under two weeks, with much of the route following the ancient roads of Ermine Street and Watling Street, and most of the overnight stops on or close to Eleanor’s landholdings. She was buried in Westminster Abbey on 17 December 1290.\n</p><p>Eleanor's bier spent the final night of its journey, 16 December 1290, in the Royal Mews at Charing, Westminster, a few hundred yards north of Westminster Abbey. The area subsequently became known as Charing Cross. The cross here was the most expensive of the twelve, built of Purbeck marble from 1291 onwards by Richard of Crundale, the senior royal mason, with the sculptures supplied by Alexander of Abingdon, and some items by Ralph de Chichester. Richard died in the autumn of 1293, and the work was completed by Roger of Crundale, probably his brother. The total recorded cost was over £700.\nThe cross stood outside the Royal Mews, at the top of what is now Whitehall, and on the south side of what is now Trafalgar Square. John Norden in about 1590 described it as the \"most stately\" of the series, but by this date so \"defaced by antiquity\" as to have become \"an old weather-beaten monument\". It was also noted by William Camden in 1607.\nIt was ordered to be taken down by Parliament in 1643, and was eventually demolished in 1647. Following the demolition, a contemporary ballad ran:\n</p><p>Undone! undone! the lawyers cry,\nThey ramble up and down;\nWe know not the way to Westminster\nNow Charing-Cross is down.\n</p><p>After the Restoration of Charles II, an equestrian statue of Charles I by Hubert Le Sueur was erected on the site of the cross in 1675, and this still stands. The location is still known as Charing Cross, and since the early 19th century this point has been regarded as the official centre of London, in legislation and when measuring distances from London.\n</p><p>A new Eleanor cross was erected in 1865 outside Charing Cross railway station, several hundred yards from the original site.\n</p><p>The Queen Eleanor Memorial Cross at Charing Cross in London was erected in 1865 outside Charing Cross railway station on the Strand, a few hundred yards to the east of the site of the medieval cross. It does not pretend to be a faithful copy of the original, being larger and more ornate. It stands 70 ft (21 m) high and was commissioned by the South Eastern Railway Company for their newly opened Charing Cross Hotel. The cross was designed by the hotel architect, E. M. Barry, who is also known for his work on Covent Garden. It was constructed by Thomas Earp of Lambeth from Portland stone, Mansfield stone (a fine sandstone) and Aberdeen granite. It was restored to a substantial extent in 2009–10.\n</p><p>A 100-metre-long (330-foot) mural by David Gentleman on the platform walls of Charing Cross underground station, commissioned by London Transport in 1978, depicts, in the form of wood engravings, the story of the building of the medieval cross by stonemasons and sculptors.\n</p>\nFolk etymology holds that the name Charing derives from French chère reine (dear queen); but the name \"Charing\" for the area in fact pre-dates Eleanor's death and probably comes from the Anglo-Saxon word ċerring, meaning a bend, as it stands on the outside of a sharp bend in the River Thames (compare Charing in Kent).",
+    "credits": "amandabhslater / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image39.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2021,
+    "date": "2021-11-10",
+    "description": "On a lonely traffic island - you wouldn't notice the plaque.\n<p>In 1290 Eleanor of Castile, the beloved wife of Edward I and mother of his 14 children, died at Harby in Nottinghamshire. The places where her body rested during the journey south to its tomb in Westminster Abbey were marked by stone crosses.\n</p><p>The twelve crosses were at Lincoln, Grantham, Stamford, Geddington, Hardingstone, Stony Stratford, Woburn, Dunstable, St. Albans, Waltham (Cross), Westcheap (Cheapside), Charing (Charing Cross). Of these only three of the original crosses survive, those at Geddington, Hardingstone and Waltham Cross.\n</p><p>Queen Eleanor was three times buried. The tomb, containing her viscera, is in Lincoln Cathedral. Her heart was buried at Blackfriars Monastery in London and her body in Westminster Abbey.\n</p><p>Edward was determined to mark the death of his remarkable Queen in significant and elaborate fashion. There has been nothing like the cortège of Eleanor, before or since, on this island. Her embalmed body was dressed in loose robes, crowned, and placed on an open bier. The procession, with the Queen’s chaplain at its head and Edward following the bier, left Lincoln on 4 December. The journey back to Westminster took just under two weeks, with much of the route following the ancient roads of Ermine Street and Watling Street, and most of the overnight stops on or close to Eleanor’s landholdings. She was buried in Westminster Abbey on 17 December 1290.\n</p><p>Eleanor's bier spent the final night of its journey, 16 December 1290, in the Royal Mews at Charing, Westminster, a few hundred yards north of Westminster Abbey. The area subsequently became known as Charing Cross. The cross here was the most expensive of the twelve, built of Purbeck marble from 1291 onwards by Richard of Crundale, the senior royal mason, with the sculptures supplied by Alexander of Abingdon, and some items by Ralph de Chichester. Richard died in the autumn of 1293, and the work was completed by Roger of Crundale, probably his brother. The total recorded cost was over £700.\nThe cross stood outside the Royal Mews, at the top of what is now Whitehall, and on the south side of what is now Trafalgar Square. John Norden in about 1590 described it as the \"most stately\" of the series, but by this date so \"defaced by antiquity\" as to have become \"an old weather-beaten monument\". It was also noted by William Camden in 1607.\nIt was ordered to be taken down by Parliament in 1643, and was eventually demolished in 1647. Following the demolition, a contemporary ballad ran:\n</p><p>Undone! undone! the lawyers cry,\nThey ramble up and down;\nWe know not the way to Westminster\nNow Charing-Cross is down.\n</p><p>After the Restoration of Charles II, an equestrian statue of Charles I by Hubert Le Sueur was erected on the site of the cross in 1675, and this still stands. The location is still known as Charing Cross, and since the early 19th century this point has been regarded as the official centre of London, in legislation and when measuring distances from London.\n</p><p>A new Eleanor cross was erected in 1865 outside Charing Cross railway station, several hundred yards from the original site.\n</p><p>The Queen Eleanor Memorial Cross at Charing Cross in London was erected in 1865 outside Charing Cross railway station on the Strand, a few hundred yards to the east of the site of the medieval cross. It does not pretend to be a faithful copy of the original, being larger and more ornate. It stands 70 ft (21 m) high and was commissioned by the South Eastern Railway Company for their newly opened Charing Cross Hotel. The cross was designed by the hotel architect, E. M. Barry, who is also known for his work on Covent Garden. It was constructed by Thomas Earp of Lambeth from Portland stone, Mansfield stone (a fine sandstone) and Aberdeen granite. It was restored to a substantial extent in 2009–10.\n</p><p>A 100-metre-long (330-foot) mural by David Gentleman on the platform walls of Charing Cross underground station, commissioned by London Transport in 1978, depicts, in the form of wood engravings, the story of the building of the medieval cross by stonemasons and sculptors.\n</p>\nFolk etymology holds that the name Charing derives from French chère reine (dear queen); but the name \"Charing\" for the area in fact pre-dates Eleanor's death and probably comes from the Anglo-Saxon word ċerring, meaning a bend, as it stands on the outside of a sharp bend in the River Thames (compare Charing in Kent).",
+    "credits": "amandabhslater / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image40.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2018,
+    "date": "2018-03-04",
+    "description": "A couple of candid images from  today's march in central London.Marchers including Mayor of London Sadiq Khan,and various other people..Bianca Jagger, Dawn Butler  Helen Pankhurst Sue Perkins, Sophie Ellis-Bextor,  Michael Sheen and Natalie Imbruglia to name a few.. Good atmosphere and not too rainy.\nThe march marks both International Women’s Day (Thursday, 8 March ) and the 100 year anniversary of women’s right to vote in the UK.",
+    "credits": "Loco Steve / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image41.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2022,
+    "date": "2022-02-27",
+    "description": "<p>I post this series of photos of a pro-Ukraine protest in London's Trafalgar Square as a neutral observer (more photos will be following soon). I'm no fan of either Russian or Western imperialism and military aggression and I have every sympathy with the Ukrainians who are facing a war of aggression from their more powerful northern neighbour, part of the motive for which seems to be to rebuild the prestige and power of Russia, as sort of new Russian empire reflecting the former hegemonic influence over Eastern Europe of the Soviet Union.  All at an immense cost in lives, and also a clear and grave violation of international law.  Putin's decision to escalate the nuclear standoff with the West by publicly placing his nuclear forces on high alert should be another reminder of just how dangerous he is. \n</p><p>However, the West also should share a significant portion of the blame for this war.  The Russian invasion is far from \"unprovoked\" as many media commentators claim.  First, we have to remember recent history and how Russia has good reason to fear NATO which was originally set up to combat the threat of the 'Russian hordes.'  It is remarkable how in 1990 Mikhail Gorbachev, despite his familiarity with Germany's responsibility for having invaded Russia twice during the twentieth century (in 1914 and 1941), agreed to allow East Germany to join West Germany inside a hostile military alliance. There was however a quid pro quo, as promised by President George H. W. Bush (senior) and Secretary of State James Baker that NATO wouldn't move \"another inch to the east\" but that promise was soon broken as during the Clinton presidency, Poland, the Czech Republic and Hungary joined, and then under President George W. Bush, the NATO alliance was further extended to include Bulgaria, Romania, Slovakia, Slovenia and the Baltic States, and further still under Obama to Croatia and Albania. \n</p><p>This means that NATO forces are now frequently deployed right around Russia's western borders (except for Ukraine and Belarus). One can imagine, Washington's paranoia, if say in the 1960s or 1970s, Mexico and Canada had declared their intention to join the Warsaw Pact and many people may be familiar with how Cuba's desire to station Soviet missiles on its territory to deter a feared US invasion (and frequent terror attacks), almost led to a nuclear war, though fortunately Khrushchev saw wisdom and backed down in the face of JFK's terrifying brinkmanship and secretly the United States did agree to withdraw some of its older strategic nuclear missiles from Turkey. \n</p><p>At the same time the United States sees Ukraine as occupying a key space on the strategic chessboard, and has ensured that Ukraine has become increasingly dependent on foreign debt and Washington's goodwill, and has continued to plan for Ukraine's eventual incorporation into NATO.  That would mean Ukraine, which occupies a vital strategic position on Russia's southern flank and with its border just 350 miles from Moscow, would also become a potential platform for an assault on Russia and even if no assault ever occurred, the mere fact of NATO's enhanced power, would inevitably greatly diminish any remaining influence Russia had to counterbalance US hegemony in Europe.  That's why Ukraine's membership of Europe is something which no Russian leader was ever likely to accept.  It is of course easy to see a possible compromise - that Ukraine should remain neutral but that in return all countries should respect its territorial integrity, although allowing some autonomy for the Russian speaking areas in Crimea and the Donbass.\n</p><p>Western media has downplayed the suffering of the Russian population in the Donbass region, which for years has been subjected to constant shelling from government forces, and although Ukrainian civilians have also been killed by Russian backed separatists, the UN figures clearly show that year after year, it was the Russian population which suffered a far higher level of fatalities and serious injuries, including the deaths of many children. \n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://ukraine.un.org/sites/default/files/2022-02/Conflict-related\">https://ukraine.un.org/sites/default/files/2022-02/Conflict-related</a> civilian casualties as of 31 December 2021 (rev 27 January 2022) corr EN_0.pdf\" rel=\"noreferrer nofollow\"&gt;ukraine.un.org/sites/default/files/2022-02/Conflict-relat...&lt;/a&gt;\n</p><p>Western media also holds up Ukraine as a beacon of freedom and democracy, but while there have been some important gains for civil society in recent years, Russians have good reason to be unhappy.   The Ukraine government has harassed and detained several opposition and pro-Russian journalists and in February 2017 it banned the commercial importation of books from Russia and a new education law made Ukrainian the sole language of instruction in secondary schools, which obviously discriminated against its Russian population. Fascist militias are also growing in number and corruption is endemic while the UN Subcommittee on the Prevention of Torture suspects the Ukrainian government of operating secret prisons. \n</p><p>However, it should be noted that the human rights record of the separatist regions of Luhansk and Donetsk have also received intense criticism from the UN OHCHR (Office of the United Nations High Commissioner for Human Rights) and various NGOs for suspected human rights abuses, while Russia's appalling human rights record and its increasing authoritarianism is well known. \n</p><p>To avoid the enormous risk of a nuclear confrontation the West has to start thinking of a way to allow Putin to climb down, without jeopardising European security or sacrificing the freedoms of the Ukrainian people and the obvious way would be to agree to recognise Ukraine as a neutral sovereign state which would remain outside NATO and with a real democratic autonomy for the Luhansk and Donetsk regions.  \n</p>\nIf the West continues to funnel enormous quantities of high tech military equipment into Ukraine, without attempt to reach a political compromise (by recognising Russia's legitimate security concerns and autonomy for the Donbass region while still guaranteeing Ukraine's sovereignty) there's a very real risk that an increasingly frustrated Putin will issue an ultimatum for the tactical use of nuclear weapons in order to regain the upper hand on the battlefield, and this will be an incredibly dangerous moment for humankind.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59952459@N08\">Alisdare Hickson</a> from Woolwich, United Kingdom / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image42.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 2017,
+    "date": "2017-08-06",
+    "description": "Trafalgar Square\nThanks for all the views. Please check out my other photos and albums.",
+    "credits": "Waterford_Man / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "London"
+  },
+  {
+    "filename": "image43.jpg",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "year": 1954,
+    "date": "1954-11-01",
+    "description": "This map depicts the ancient Punt region, an area located along the Horn of Africa, which includes parts of modern-day northern Somalia and Djibouti. The map highlights ancient trade routes connecting the Punt region to Egypt and the Arabian Peninsula, showing its strategic importance in ancient commerce. Punt was known for its wealth and for being a major center of trade, especially for valuable goods such as frankincense, myrrh, and other precious resources. The map is based on historical reconstructions and represents the area as it might have appeared during the ancient era. The source of this map is credited to AAR Midnimo originally posted on Flickr and licensed under CC BY 2.0.”",
+    "credits": "AAR Midnimo / Wikimedia Commons / Public domain",
+    "city": "London"
+  },
+  {
+    "filename": "image44.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2009,
+    "date": "2009-09-04",
+    "description": "<a href=\"https://en.wikipedia.org/wiki/en:Yukio_Hatoyama\" class=\"extiw\" title=\"w:en:Yukio Hatoyama\">Yukio Hatoyama</a>, Member of the <a href=\"https://en.wikipedia.org/wiki/en:House_of_Representatives_of_Japan\" class=\"extiw\" title=\"w:en:House of Representatives of Japan\">House of Representatives</a>, addressed at the <a href=\"https://en.wikipedia.org/wiki/en:World_Economic_Forum\" class=\"extiw\" title=\"w:en:World Economic Forum\">World Economic Forum Japan Meeting 2009</a> in <a href=\"https://en.wikipedia.org/wiki/en:Shinjuku,_Tokyo\" class=\"extiw\" title=\"w:en:Shinjuku, Tokyo\">Shinjuku Ward</a>, <a href=\"https://en.wikipedia.org/wiki/en:Tokyo\" class=\"extiw\" title=\"w:en:Tokyo\">Tōkyō Metropolis</a>, on September 4, 2009.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/worldeconomicforum/\">World Economic Forum</a><br>Copyright World Economic Forum / Kaori Nishida / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image45.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-04-10",
+    "description": "Tokyo, Japan",
+    "credits": "Simon Launay <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@simonlaunay\">simonlaunay</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image46.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-04-01",
+    "description": "Tokyo, Japan",
+    "credits": "Julia Caesar <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@juliacaesar\">juliacaesar</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image47.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-03-27",
+    "description": "Tokyo, Japan",
+    "credits": "Tom Parkes <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tomparkes\">tomparkes</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image48.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2016,
+    "date": "2016-04-27",
+    "description": "Tokyo, Japan",
+    "credits": "Aaron Ang <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@aaronandrewang\">aaronandrewang</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image49.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2016,
+    "date": "2016-09-15",
+    "description": "Tokyo, Japan",
+    "credits": "Amos Bar-Zeev <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@amosbarzeev\">amosbarzeev</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image50.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-05-29",
+    "description": "Tokyo, Japan",
+    "credits": "Charles Deluvio <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@charlesdeluvio\">charlesdeluvio</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image51.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2015,
+    "date": "2015-11-06",
+    "description": "Tokyo, Japan",
+    "credits": "Matt Milton <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@matt_milton\">matt_milton</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image52.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-03-28",
+    "description": "Tokyo, Japan",
+    "credits": "pepe nero <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@pepe_nero\">pepe_nero</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image53.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-01-02",
+    "description": "Tokyo, Japan",
+    "credits": "Tolga Kilinc <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tlgklnc\">tlgklnc</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image54.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2015,
+    "date": "2015-11-26",
+    "description": "Tokyo, Japan",
+    "credits": "Tanaphong Toochinda <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@daen_2chinda\">daen_2chinda</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image55.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2017,
+    "date": "2017-03-28",
+    "description": "Tokyo, Japan",
+    "credits": "pepe nero <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@pepe_nero\">pepe_nero</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image56.jpg",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "year": 2009,
+    "date": "2009-03-29",
+    "description": "Japanese masks from the <a href=\"https://en.wikipedia.org/wiki/Noh\" class=\"extiw\" title=\"en:Noh\">Noh theater</a>: - Demon Hannya - Onnamen - Okina. Classified as national treasures - Copies sold in the Tokyo Imperial Museum store (on 2009)",
+    "credits": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographer and Wikimedian\">Pierre André Leclercq</span></a></bdi> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Tokyo"
+  },
+  {
+    "filename": "image57.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-04-11",
+    "description": "Sydney, Australia",
+    "credits": "Hipster Mum <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@hipstermum\">hipstermum</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image58.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-06-12",
+    "description": "Sydney, Australia",
+    "credits": "Christopher Burns <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@christopher__burns\">christopher__burns</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image59.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2016,
+    "date": "2016-08-11",
+    "description": "Sydney, Australia",
+    "credits": "Baptiste C David <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@bapt\">bapt</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image60.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-03-25",
+    "description": "Sydney, Australia",
+    "credits": "Christopher Burns <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@christopher__burns\">christopher__burns</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image61.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2016,
+    "date": "2016-09-13",
+    "description": "Sydney, Australia",
+    "credits": "Baptiste C David <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@bapt\">bapt</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image62.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-04-11",
+    "description": "Sydney, Australia",
+    "credits": "Flaunter .com <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@flaunter\">flaunter</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image63.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-03-06",
+    "description": "Sydney, Australia",
+    "credits": "Corey Agopian <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@corey_lyfe\">corey_lyfe</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image64.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-02-20",
+    "description": "Sydney, Australia",
+    "credits": "Emmy Smith <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@emsmith\">emsmith</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image65.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-01-04",
+    "description": "Sydney, Australia",
+    "credits": "Darius K <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@drazgoosh\">drazgoosh</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image66.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-05-07",
+    "description": "Sydney, Australia",
+    "credits": "Christopher Burns <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@christopher__burns\">christopher__burns</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image67.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-05-16",
+    "description": "Sydney, Australia",
+    "credits": "Annie Spratt <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@anniespratt\">anniespratt</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image68.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-03-12",
+    "description": "Sydney, Australia",
+    "credits": "Christopher Burns <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@christopher__burns\">christopher__burns</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image69.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2016,
+    "date": "2016-07-25",
+    "description": "Sydney, Australia",
+    "credits": "Jeremy Bishop <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tidesinourveins\">tidesinourveins</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image70.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-07-01",
+    "description": "The Piccolo Chinook is a fluidized bed hot air coffee roaster.  It is controlled by a computerized Reactive Roast Management system.  Green coffee batch sizes of 500 grams to 3.0Kgs can be roasted in 5 to 14 minutes.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Coffea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Coffea (page does not exist)\">Coffea</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image71.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-07-01",
+    "description": "The Piccolo Chinook is a fluidized bed hot air coffee roaster. It is controlled by a computerized Reactive Roast Management system. Green coffee batch sizes of 500 grams to 3.0Kgs can be roasted in 5 to 14 minutes.\nThis is the side view showing the chaff cyclone and chaff can.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Coffea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Coffea (page does not exist)\">Coffea</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image72.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2017,
+    "date": "2017-07-01",
+    "description": "The Piccolo Chinook is a fluidized bed hot air coffee roaster which can roast coffee in a shop or espresso bar.  Green coffee batch sizes of 500 grams to 3.0Kgs can be roasted in 5 to 14 minutes.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Coffea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Coffea (page does not exist)\">Coffea</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image73.jpg",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "year": 2023,
+    "date": "2023-08-23",
+    "description": "Photo of author and entrepreneur Zoë Foster Blake wearing a caramel coloured top and blue jeans against a white background.",
+    "credits": "Abbie Davis / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Sydney"
+  },
+  {
+    "filename": "image74.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-04-02",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Pedro Gabriel Miziara <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@pgmiziara\">pgmiziara</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image75.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-03-23",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Nilton Oliveira <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@niltonoliveira\">niltonoliveira</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image76.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-05-24",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Henri Meilhac <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@henrimeilhac\">henrimeilhac</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image77.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-01-06",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Agustín Diaz <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@agussdiaz28\">agussdiaz28</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image78.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2015,
+    "date": "2015-10-03",
+    "description": "Rio de Janeiro, Brasil",
+    "credits": "Luciano Ribas <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@monteribas\">monteribas</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image79.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2016,
+    "date": "2016-03-08",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Edu Lauton <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@edulauton\">edulauton</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image80.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2016,
+    "date": "2016-06-26",
+    "description": "Rio de Janeiro, Brazil",
+    "credits": "Antonio Lapa <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@alcqlapa\">alcqlapa</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image81.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2015,
+    "date": "2015-05-09",
+    "description": "Sooty Saddlebags (<i>Tramea binotata</i>), Rio de Janeiro, RJ, Brasil",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/people/diogoluiz\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image82.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-02-18",
+    "description": "<i>Erythrodiplax melanorubra</i>, Rio de Janeiro, Brazil",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image83.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2020,
+    "date": "2020-07-17",
+    "description": "Photo of Hylodes pipilans uploaded from <a rel=\"nofollow\" class=\"external text\" href=\"https://inaturalist.org\">iNaturalist</a>.",
+    "credits": "Diogo Luiz / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image84.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2018,
+    "date": "2018-02-23",
+    "description": "<i>Idaea zoalma</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image85.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2016,
+    "date": "2016-02-14",
+    "description": "<i>Cacoscelis marginata</i>, Rio de Janeiro, RJ, Brasil",
+    "credits": "{{{name}}} / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image86.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2018,
+    "date": "2018-11-03",
+    "description": "<i>Isotes digna</i>, Rio de Janeiro, RJ, Brasil",
+    "credits": "{{{name}}} / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image87.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2015,
+    "date": "2015-04-23",
+    "description": "Daring Owl-Butterfly (<i>Dynastor darius</i>)",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image88.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2014,
+    "date": "2014-10-10",
+    "description": "<i>Cycloramphus eleutherodactylus</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image89.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-12-29",
+    "description": "<i>Micrathena sanctispiritus</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image90.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-02-18",
+    "description": "<i>Erythrodiplax paraguayensis</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image91.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-03-09",
+    "description": "<i>Erythrodiplax juliana</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image92.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2017,
+    "date": "2017-03-09",
+    "description": "<i>Erythrodiplax juliana</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image93.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2018,
+    "date": "2018-06-12",
+    "description": "Bruised Skipper (<i>Zera hyacinthinus</i>)",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image94.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2018,
+    "date": "2018-02-01",
+    "description": "<i>Helias phalaenoides palpalis</i>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image95.jpg",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "year": 2015,
+    "date": "2015-02-25",
+    "description": "Star Apple (<i>Chrysophyllum cainito</i>) in Brazil",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/1876348\">Diogo Luiz</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rio de Janeiro"
+  },
+  {
+    "filename": "image96.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2007,
+    "date": "2007-08-16",
+    "description": "Sadat station plathome, Cairo, Egypt",
+    "credits": "Kounosu / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image97.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-01",
+    "description": "A young person during the <a href=\"https://en.wikipedia.org/wiki/2011_Egyptian_protests\" class=\"extiw\" title=\"w:2011 Egyptian protests\">2011 Egyptian protests</a> in <a href=\"https://en.wikipedia.org/wiki/Midan_El-Tahrir\" class=\"extiw\" title=\"w:Midan El-Tahrir\">Midan El-Tahrir</a> carrying a cardboard saying \"If you can't understand Arabic, here it is in Chinese. Leave Mubarak\"",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Essam_Sharaf\" title=\"User:Essam Sharaf\">Essam Sharaf</a> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image98.png",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-04",
+    "description": "2011 Egyptian protests: Friday of Departure: Tahrir Square",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/89031137@N00/\">(Mona sosh)</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image99.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-08",
+    "description": "Tahrir Square during 8 February 2011",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/89031137@N00\">Mona</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image100.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-08",
+    "description": "<p>Tahrir Square during 9 February evening, in Cairo during the Egyptian Revolution of 2011.\n</p>\n<ul><li>IMG01296-20110208-2018</li></ul>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/89031137@N00\">Mona</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image101.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-01-30",
+    "description": "A woman in a niqab holding a sign in English saying \"Mubark is The worst one in Egypt get out Mubarak\" [<i><a href=\"https://en.wikipedia.org/wiki/sic\" class=\"extiw\" title=\"en:sic\">sic</a></i>]",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32672045@N00\">Floris Van Cauwelaert</a> from Brussels, Belgium / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image102.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-01-30",
+    "description": "The messages on Tahrir Square",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32672045@N00\">Floris Van Cauwelaert</a> from Brussels, Belgium / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image103.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-01-30",
+    "description": "The messages on Tahrir Square",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32672045@N00\">Floris Van Cauwelaert</a> from Brussels, Belgium / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image104.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-01-30",
+    "description": "The messages on Tahrir Square",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32672045@N00\">Floris Van Cauwelaert</a> from Brussels, Belgium / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image105.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-01-30",
+    "description": "The messages on Tahrir Square",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/32672045@N00\">Floris Van Cauwelaert</a> from Brussels, Belgium / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image106.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-03-16",
+    "description": "A photo that explains the 2011 Egyptian Constitutional Referendum process in Arabic if you vote Yes or No",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/58797763@N04\">yamaha_gangsta</a> / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image107.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-01",
+    "description": "Photograph By: Ramy Raoof",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/38290178@N06\">Ramy Raoof</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image108.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-02-01",
+    "description": "Photograph By: Ramy Raoof",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/38290178@N06\">Ramy Raoof</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image109.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-05-13",
+    "description": "Egyptian demonstrators praying in Tahrir Square.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60329285@N04\">Lilian Wagdy</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image110.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-07-15",
+    "description": "Tahrir Sq on July 15th",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30572015@N06\">Ahmed Abd El-Fatah</a> from Egypt / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image111.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 1941,
+    "date": "1941-01-01",
+    "description": "<a href=\"//commons.wikimedia.org/wiki/Category:Tahrir_Square\" title=\"Category:Tahrir Square\">Tahrir Square</a>, with the Egyptian Museum on left, circa 1940s Cairo (over 70 years ago).",
+    "credits": "Unknown author<span style=\"display: none;\">Unknown author</span> / Wikimedia Commons / Public domain",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image112.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-08-12",
+    "description": "Alaa Al Aswany in Tahrir Square on the 12th of August",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60329285@N04\">Lilian Wagdy</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image113.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-07-29",
+    "description": "<a href=\"https://en.wikipedia.org/wiki/en:Tahrir_Square\" class=\"extiw\" title=\"w:en:Tahrir Square\">Tahrir Square</a> on July 29 2011 during the <b>Friday of unity</b> which was later mockingly dubbed \"<a href=\"https://en.wikipedia.org/wiki/en:Kandahar\" class=\"extiw\" title=\"w:en:Kandahar\">Kandahar</a> Friday\" due to the Islamists coalesced in Tahrir and Islamists chanting \"<a href=\"https://en.wikipedia.org/wiki/en:Islamic_republic\" class=\"extiw\" title=\"w:en:Islamic republic\">Islamiya, Islamiya</a>\". There also was small scale clashes and heated-word exchanged between the Islamists and other protests. The secular forces said that the Islamist did not hold the agreement they all had about not chanting anything outside the <a href=\"https://en.wikipedia.org/wiki/en:2011_Egyptian_revolution#Reform_process\" class=\"extiw\" title=\"w:en:2011 Egyptian revolution\">main revolutionary demands</a>.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30572015@N06\">Ahmed Abd El-Fatah</a> from Egypt / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image114.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-09-09",
+    "description": "Tahrir Square on September 9 2011",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30572015@N06\">Ahmed Abd El-Fatah</a> from Egypt / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image115.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-11-21",
+    "description": "Thousands of people have been injured in the clashes. Near Tahrir Square, El Cairo, Egypt.",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32834977@N03\">Al Jazeera English</a> / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image116.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2013,
+    "date": "2013-09-23",
+    "description": "This is a photo of a monument in Egypt identified by the ID",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mannycairo21&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mannycairo21 (page does not exist)\">Mannycairo21</a> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image117.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2013,
+    "date": "2013-12-22",
+    "description": "Yostina Boules, winning contestant of the 2013 Egyptian Reality TV series \"El Mashroua\" (\"The Project\") produced by Bamyan Media",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lilifranckyn2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lilifranckyn2 (page does not exist)\">Lilifranckyn2</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image118.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2013,
+    "date": "2013-05-01",
+    "description": "<ol><li>BelovedEgypt - International Workers' Day (also known as May Day) is a celebration of the international labour movement. May 1 is a national holiday in more than 80 countries, including Egypt, and celebrated unofficially in many other countries – Workers</li></ol>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63284675@N00\">Muhammad Mansour</a> from Cairo, Egypt / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image119.jpg",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "year": 2011,
+    "date": "2011-08-12",
+    "description": "Alaa Al Aswany in Tahrir Square on the 12th of August",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60329285@N04\">Lilian Wagdy</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Cairo"
+  },
+  {
+    "filename": "image120.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2017,
+    "date": "2017-11-06",
+    "description": "This is an image of \"African people at work\" from",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Brucekloot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Brucekloot (page does not exist)\">Bruce Kloot</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image121.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2017,
+    "date": "2017-11-06",
+    "description": "This is an image of \"African people at work\" from",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Brucekloot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Brucekloot (page does not exist)\">Bruce Kloot</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image122.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image123.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image124.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image125.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image126.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image127.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image128.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image129.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image130.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image131.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image132.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image133.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-17",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image134.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image135.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image136.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image137.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image138.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image139.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image140.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image141.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image142.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-18",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image143.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-23",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image144.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-23",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image145.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2018,
+    "date": "2018-07-23",
+    "description": "This photo was taken at Cape Town in July, 2018.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Jnanaranjan_sahu\" title=\"User:Jnanaranjan sahu\">Jnanaranjan sahu</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image146.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2020,
+    "date": "2020-02-23",
+    "description": "Ethiopian Airlines 737 at CT airport",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ShanaliCT&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ShanaliCT (page does not exist)\">ShanaliCT</a> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image147.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2020,
+    "date": "2020-02-24",
+    "description": "Car-park in Ethiopia with various sedans, SUVs, vans\nView from Capital hotel window",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ShanaliCT&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ShanaliCT (page does not exist)\">ShanaliCT</a> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image148.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2020,
+    "date": "2020-02-24",
+    "description": "Two plates of food from above, one with injera, a fermented, tef-based flatbread, and the other with mutton tibs, a tomato and spiced stew.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ShanaliCT&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ShanaliCT (page does not exist)\">ShanaliCT</a> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image149.jpg",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "year": 2020,
+    "date": "2020-02-24",
+    "description": "Masks and antique jars and objects in a shop in Ethiopia",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ShanaliCT&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ShanaliCT (page does not exist)\">ShanaliCT</a> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Cape Town"
+  },
+  {
+    "filename": "image150.JPG",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2008,
+    "date": "2008-06-15",
+    "description": "A GSP 55 in the Central Armed Forces Museum (Moscow).",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://picasaweb.google.com/107245846490914547653\">Liem Bui</a> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image151.JPG",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2008,
+    "date": "2008-06-15",
+    "description": "A BMD tank in the Central Armed Forces Museum (Moscow).",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://picasaweb.google.com/107245846490914547653\">Liem Bui</a> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image152.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2009,
+    "date": "2009-12-09",
+    "description": "Борис Лифановский (виолончель)",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lifanovsky&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lifanovsky (page does not exist)\">Lifanovsky</a> / Wikimedia Commons / CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image153.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2012,
+    "date": "2012-12-23",
+    "description": "Resurrection Gate, Moscow",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Maxim75\" title=\"User:Maxim75\">Maksym Kozlenko</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image154.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2016,
+    "date": "2016-03-02",
+    "description": "Denis Balandin is an actor of the Russian academic molodkzhny theater -15  March, 2016",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Smirnov_Yuriy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Smirnov Yuriy (page does not exist)\">Smirnov Yuriy</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image155.JPG",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2016,
+    "date": "2016-03-12",
+    "description": "Денис Баландин – артист Российского молодежного театра (РАМТ) – в кабинете П. И. Чайковского в музее в Клину – март 2016",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Smirnov_Yuriy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Smirnov Yuriy (page does not exist)\">Smirnov Yuriy</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image156.JPG",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2016,
+    "date": "2016-03-12",
+    "description": "Денис Баландин – артист Российского молодежного театра (РАМТ) – музей П. И. Чайковского в Клину (кабинет П.И. Чайковского) – март 2016",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Smirnov_Yuriy&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Smirnov Yuriy (page does not exist)\">Smirnov Yuriy</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image157.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2012,
+    "date": "2012-06-28",
+    "description": "Фотография художника Леонида Сокова, сделанная на его выставке в Москве в 2012 году.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nebydlogop&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nebydlogop (page does not exist)\">Nebydlogop</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image158.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-02-12",
+    "description": "Chapelle Iverskaya et fortifications du Kremlin à Moscou (Russie).",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Gzen92\" title=\"User:Gzen92\">Gzen92</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image159.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-02-12",
+    "description": "Chapelle Iverskaya à Moscou (Russie).",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Gzen92\" title=\"User:Gzen92\">Gzen92</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image160.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-02-13",
+    "description": "Chapelle Iverskaya et fortifications du Kremlin à Moscou (Russie).",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Gzen92\" title=\"User:Gzen92\">Gzen92</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image161.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2016,
+    "date": "2016-10-26",
+    "description": "A.L. Brudno",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Abrudno&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Abrudno (page does not exist)\">Abrudno</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image162.png",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-03-06",
+    "description": "VL Arlazarov",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Abrudno&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Abrudno (page does not exist)\">Abrudno</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image163.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-10-14",
+    "description": "Вики-конференция 2017. Москва",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:ZUFAr\" title=\"User:ZUFAr\">ZUFAr</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image164.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2017,
+    "date": "2017-10-14",
+    "description": "Вики-конференция 2017. Москва",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:ZUFAr\" title=\"User:ZUFAr\">ZUFAr</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image165.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2014,
+    "date": "2014-10-03",
+    "description": "Resurrection Gate (Воскресенские ворота) is the only existing gate of the Kitai-gorod in Moscow. It connects the north-western end of Red Square with Manege Square and gives its name to nearby Voskresenskaya Square (Resurrection Square). The gate adjoins the ornate building of the Moscow City Hall to the east and the State Historical Museum to the west. Just in front of the chapel is a bronze plaque marking kilometre zero of the Russian highway system [Wikipedia.org]",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8721758@N06\">Jorge Láscar</a> from Melbourne, Australia / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image166.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2014,
+    "date": "2014-10-06",
+    "description": "Resurrection Gate (Воскресенские ворота) is the only existing gate of the Kitai-gorod in Moscow. It connects the north-western end of Red Square with Manege Square and gives its name to nearby Voskresenskaya Square (Resurrection Square). The gate adjoins the ornate building of the Moscow City Hall to the east and the State Historical Museum to the west. Just in front of the chapel is a bronze plaque marking kilometre zero of the Russian highway system [Wikipedia.org]",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8721758@N06\">Jorge Láscar</a> from Melbourne, Australia / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image167.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2007,
+    "date": "2007-07-05",
+    "description": "Resurrection Gate on the Red Square in Moscow",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image168.jpg",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "year": 2024,
+    "date": "2024-04-15",
+    "description": "Moscow. Iberian Gate and Chapel",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Alexxx1979\" title=\"User:Alexxx1979\">Alexxx1979</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Moscow"
+  },
+  {
+    "filename": "image169.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2016,
+    "date": "2016-08-02",
+    "description": "Beijing, China",
+    "credits": "Shiguang Zhao <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@enochina\">enochina</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image170.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2016,
+    "date": "2016-04-28",
+    "description": "Beijing, China",
+    "credits": "Yuanbin Du <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@dean_du\">dean_du</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image171.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2016,
+    "date": "2016-06-09",
+    "description": "Beijing, China",
+    "credits": "Todd Cravens <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@toddcravens\">toddcravens</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image172.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2015,
+    "date": "2015-08-07",
+    "description": "Beijing",
+    "credits": "Tony Bertolino <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tonybert89\">tonybert89</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image173.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2016,
+    "date": "2016-10-29",
+    "description": "Beijing, China",
+    "credits": "Nico Villanueva <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@nicovillanueva\">nicovillanueva</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image174.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 2018,
+    "date": "2018-08-05",
+    "description": "Sonya Kitchell Live in China 2016",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sonyakitchell&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sonyakitchell (page does not exist)\">Sonyakitchell</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image175.jpg",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "year": 1901,
+    "date": "1901-01-01",
+    "description": "The Eight-Nation Alliance was a multinational military coalition that invaded northern China in 1900 with the stated aim of relieving the foreign legations in Beijing, then besieged by the popular Boxer militia, who were determined to expunge foreign influence from China.",
+    "credits": "Qing's government / Wikimedia Commons / Public domain",
+    "city": "Beijing"
+  },
+  {
+    "filename": "image176.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2016,
+    "date": "2016-12-26",
+    "description": "Anschlag auf den Berliner Weihnachtsmarkt an der Gedächtniskirche, Barrieren am Alex",
+    "credits": "<bdi><a href=\"https://www.wikidata.org/wiki/Q15080600\" class=\"extiw\" title=\"d:Q15080600\"><span title=\"German civil engineer and photographer\">Ralf Roletschek</span></a></bdi> / Wikimedia Commons / GFDL 1.2 (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image177.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2017,
+    "date": "2017-01-12",
+    "description": "Berlin, Germany",
+    "credits": "Roman Kraft <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@romankraft\">romankraft</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image178.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2016,
+    "date": "2016-12-26",
+    "description": "Berlin, Germany",
+    "credits": "Artem Sapegin <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@sapegin\">sapegin</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image179.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2017,
+    "date": "2017-05-29",
+    "description": "Berlin, Germany",
+    "credits": "Andreas Kind <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@jxndreas\">jxndreas</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image180.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2017,
+    "date": "2017-05-21",
+    "description": "Berlin, Germany",
+    "credits": "Hector Bermudez <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@hectorbermudez\">hectorbermudez</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image181.jpg",
+    "lat": 52.52,
+    "lng": 13.405,
+    "year": 2018,
+    "date": "2018-11-21",
+    "description": "Marc Secara during recording at Greve Studio in Berlin, Germany",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Shelyric&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Shelyric (page does not exist)\">Shelyric</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Berlin"
+  },
+  {
+    "filename": "image182.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2017,
+    "date": "2017-01-09",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"http://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image183.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-12-19",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image184.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-12-12",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image185.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2017,
+    "date": "2017-04-26",
+    "description": "Madrid, Spain",
+    "credits": "Click and Boo <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@clickandboo\">clickandboo</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image186.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-10-19",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image187.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2017,
+    "date": "2017-03-24",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image188.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-03-10",
+    "description": "Madrid, Spain",
+    "credits": "Felipe Dolce <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@felipedolce\">felipedolce</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image189.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-12-20",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image190.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2016,
+    "date": "2016-10-19",
+    "description": "Madrid, Spain",
+    "credits": "Joel Filipe <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@joelfilip\">joelfilip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image191.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2019,
+    "date": "2019-06-22",
+    "description": "Der Kapitän der Basketball-Mannschaft Real Madrid Felipe Reyes feiert den Sieg der Meisterschaft 2018/2019 in Madrid.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Tomukas\" title=\"User:Tomukas\">Thomas Holbach</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image192.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2012,
+    "date": "2012-03-24",
+    "description": "<p>Concentración Pro Vida Madrid España\n</p>\nPro Life Protest Madrid Spain",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72723202@N00\">losmininos</a> / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image193.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2012,
+    "date": "2012-03-24",
+    "description": "<p>Concentración Pro Vida Madrid España\n</p>\nPro Life Protest Madrid Spain",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72723202@N00\">losmininos</a> / Wikimedia Commons / CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image194.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2012,
+    "date": "2012-06-04",
+    "description": "Puerta del Sol at Night",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/49665685@N06\">Mike Norton</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image195.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2007,
+    "date": "2007-11-25",
+    "description": "Adilia de las Mercedes participando en un acto público en la Puerta de Sol de Madrid en 2007.",
+    "credits": "<bdi><a href=\"https://www.wikidata.org/wiki/Q87475754\" class=\"extiw\" title=\"d:Q87475754\"><span title=\"Spanish wikimedian\">Ismael Olea</span></a></bdi> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image196.jpg",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "year": 2007,
+    "date": "2007-11-25",
+    "description": "Adilia de las Mercedes participando en un acto público en la Puerta de Sol de Madrid en 2007.",
+    "credits": "<bdi><a href=\"https://www.wikidata.org/wiki/Q87475754\" class=\"extiw\" title=\"d:Q87475754\"><span title=\"Spanish wikimedian\">Ismael Olea</span></a></bdi> / Wikimedia Commons / CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)",
+    "city": "Madrid"
+  },
+  {
+    "filename": "image197.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2016,
+    "date": "2016-11-21",
+    "description": "Rome, Italy",
+    "credits": "Jace Grandinetti <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@jacegrandinetti\">jacegrandinetti</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image198.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2016,
+    "date": "2016-05-10",
+    "description": "Rome, Italy",
+    "credits": "Tomasz Rynkiewicz <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@thmsr\">thmsr</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image199.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2016,
+    "date": "2016-12-07",
+    "description": "Rome, Italy",
+    "credits": "Paul Dufour <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@bill_bokeh\">bill_bokeh</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image200.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2016,
+    "date": "2016-05-08",
+    "description": "Rome, Italy",
+    "credits": "Luis Núñez <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@lanc\">lanc</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image201.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2016,
+    "date": "2016-12-15",
+    "description": "Rome, Italy, as viewed by Hodoyoshi-1 satellite.",
+    "credits": "Axelspace Corporation / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image202.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2019,
+    "date": "2019-10-26",
+    "description": "Piazza della Repubblica -2019-10-26",
+    "credits": "Valentin Kordes / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image203.jpg",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "year": 2019,
+    "date": "2019-10-26",
+    "description": "Piazza della Repubblica - 2019-10-26",
+    "credits": "Valentin Kordes / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Rome"
+  },
+  {
+    "filename": "image204.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-01-20",
+    "description": "Bangkok, Thailand",
+    "credits": "Sagar Rana <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@sagarapher\">sagarapher</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image205.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-05-31",
+    "description": "Bangkok, Thailand",
+    "credits": "Ryan Tang <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@ryz0n\">ryz0n</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image206.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-06-01",
+    "description": "Bangkok, Thailand",
+    "credits": "Hanny Naibaho <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@hannynaibaho\">hannynaibaho</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image207.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-03-10",
+    "description": "Bangkok, Thailand",
+    "credits": "Nikolas Behrendt <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@nikolasbehrendt\">nikolasbehrendt</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image208.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2016,
+    "date": "2016-10-06",
+    "description": "Bangkok, Thailand",
+    "credits": "Patrick Schneider <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@patrick_schneider\">patrick_schneider</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image209.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-01-17",
+    "description": "Bangkok, Thailand",
+    "credits": "rawpixel.com <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@rawpixel\">rawpixel</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image210.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-05-15",
+    "description": "Bangkok, Thailand",
+    "credits": "Hanif Mahmad <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@anif\">anif</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image211.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-01-17",
+    "description": "Bangkok, Thailand",
+    "credits": "Peter Hershey <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@peterhershey\">peterhershey</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image212.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-06-01",
+    "description": "Bangkok, Thailand",
+    "credits": "Hanny Naibaho <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@hannynaibaho\">hannynaibaho</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image213.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2016,
+    "date": "2016-12-27",
+    "description": "Bangkok, Thailand",
+    "credits": "Sirotorn Sumpunkulpak <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@ninkvip\">ninkvip</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image214.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2016,
+    "date": "2016-06-14",
+    "description": "Bangkok, Thailand",
+    "credits": "Sven Scheuermeier <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@sveninho\">sveninho</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image215.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-05-03",
+    "description": "Bangkok, Thailand",
+    "credits": "Jakob Owens <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@jakobowens1\">jakobowens1</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image216.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2017,
+    "date": "2017-05-03",
+    "description": "Bangkok, Thailand",
+    "credits": "Jakob Owens <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@jakobowens1\">jakobowens1</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image217.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2015,
+    "date": "2015-08-06",
+    "description": "Bangkok",
+    "credits": "Alexandre Chambon <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@goodspleen\">goodspleen</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image218.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2015,
+    "date": "2015-11-22",
+    "description": "กรุงเทพมหานคร, Bangkok, Thailand",
+    "credits": "Chaiyaporn Atakampeewong <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@nuithatako\">nuithatako</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image219.jpg",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "year": 2023,
+    "date": "2023-01-28",
+    "description": "Mangrove Palm (<i>Nypa fruticans</i>) in Thailand",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/3182997\">Светлана Царахова</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Bangkok"
+  },
+  {
+    "filename": "image220.JPG",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2016,
+    "date": "2016-04-05",
+    "description": "Ryan Widner",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ryanwidner&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ryanwidner (page does not exist)\">Ryanwidner</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image221.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2016,
+    "date": "2016-11-03",
+    "description": "Los Angeles, United States",
+    "credits": "Edwin Andrade <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@theunsteady5\">theunsteady5</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image222.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2016,
+    "date": "2016-12-28",
+    "description": "Los Angeles, United States",
+    "credits": "Zachary Staines <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@antibodies\">antibodies</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image223.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2016,
+    "date": "2016-11-30",
+    "description": "Los Angeles, United States",
+    "credits": "Austin Lee <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@censor\">censor</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image224.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-01-16",
+    "description": "Los Angeles, United States",
+    "credits": "Jeremy Bishop <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tidesinourveins\">tidesinourveins</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image225.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-05-31",
+    "description": "Los Angeles, United States",
+    "credits": "MARK ADRIANE <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@markadriane\">markadriane</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image226.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-02-13",
+    "description": "Los Angeles, United States",
+    "credits": "Jeremy Bishop <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tidesinourveins\">tidesinourveins</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image227.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-02-01",
+    "description": "Los Angeles, United States",
+    "credits": "Jeremy Bishop <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tidesinourveins\">tidesinourveins</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image228.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-05-22",
+    "description": "Los Angeles, United States",
+    "credits": "MARK ADRIANE <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@markadriane\">markadriane</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image229.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-02-03",
+    "description": "Los Angeles, United States",
+    "credits": "Tu Tram Pham <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@tutrampham\">tutrampham</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image230.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2016,
+    "date": "2016-09-28",
+    "description": "Los Angeles, United States",
+    "credits": "Sapan Patel <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@sapanpatel123\">sapanpatel123</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image231.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-01-23",
+    "description": "Los Angeles, United States",
+    "credits": "Alyssa Kibiloski <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@arkibbles\">arkibbles</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image232.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-04-11",
+    "description": "Los Angeles, United States",
+    "credits": "Abbie Bernet <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@abbiebernet\">abbiebernet</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image233.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2017,
+    "date": "2017-04-25",
+    "description": "Los Angeles, United States",
+    "credits": "Jakob Owens <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@jakobowens1\">jakobowens1</a> / Wikimedia Commons / CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image234.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2014,
+    "date": "2014-09-21",
+    "description": "Syzygium paniculatum, also known as Eugenia paniculata and magenta lily pilly, native to rainforests in New South Wales. Used as an ornamental hedge plant on other continents.",
+    "credits": "<a href=\"//commons.wikimedia.org/wiki/User:Netherzone\" title=\"User:Netherzone\">Netherzone</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image235.jpg",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "year": 2008,
+    "date": "2008-06-02",
+    "description": "Me auditioning for NBC TV Show 'America's Got Talent' in front of celebrity judges David Hasselhoff, Sharon Osbourne and Piers Morgan.",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nayanraina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nayanraina (page does not exist)\">Nayanraina</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Los Angeles"
+  },
+  {
+    "filename": "image236.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Canadian Screen Award nominee Erin Karpluk (Being Erica). \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">cfccreates.com/about_us/photos1/canadian_screen_awards_no...</a>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image237.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">cfccreates.com/about_us/photos1/canadian_screen_awards_no...</a>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image238.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "Producer Don Carmody and Karen Bruce",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image239.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Canadian Screen Award nominees <a href=\"https://en.wikipedia.org/wiki/Melinda_Shankar\" class=\"extiw\" title=\"w:Melinda Shankar\">Melinda Shankar</a> (How to be Indie 2) &amp; <a href=\"https://en.wikipedia.org/wiki/Andra_Fuller\" class=\"extiw\" title=\"w:Andra Fuller\">Andra Fuller</a> (LA Complex).\n</p><p>On March 1, 2013, the CFC, in support of the Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image240.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Actress Wendel Meldrum\n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image241.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Actor Ryan Kennedy \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p>\nAcademy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image242.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>MPP Laura Albanese speaking at the 2-13 Canadian Screen Awards Nominee Reception\n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image243.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>From left to right: Helga Stephenson, Laura Albanese, Karen Thorne Stone, Valerie Creighton and David Forget\n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image244.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Director &amp; writer Douglas Arrowsmith\n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p>\nAcademy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image245.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"noreferrer nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image246.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Slawko Klymkiw, CFC's Chief Executive Officer with CFC Development team members Frances Lorenzo, Director of Development Tina Vanderheyden, Development Coordinator Sara Seida and Hilary Hart. \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image247.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Emily Piggford, Slawko Klymkiw, CFC's Chief Executive Officer, Jeremy Ball, Lauren Grant and Bob Munroe of Canadian Screen Award nominated Frost. \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image248.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Slawko Klymkiw, CFC's Chief Executive Officer &amp; Helga Stephenson, ACCT, CEO. \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image249.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image250.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image251.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image252.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image253.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image254.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image255.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image256.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Canadian Screen Award nominees <a href=\"https://en.wikipedia.org/wiki/Melinda_Shankar\" class=\"extiw\" title=\"w:Melinda Shankar\">Melinda Shankar</a> (How to be Indie 2) &amp; <a href=\"https://en.wikipedia.org/wiki/Andra_Fuller\" class=\"extiw\" title=\"w:Andra Fuller\">Andra Fuller</a> (LA Complex).\n</p><p>On March 1, 2013, the CFC, in support of the Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image257.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2020,
+    "date": "2020-03-01",
+    "description": "Classik in Toronto 2020",
+    "credits": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Media_Classik&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Media Classik (page does not exist)\">Media Classik</a> / Wikimedia Commons / CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image258.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Canadian Screen Award nominee <a href=\"https://en.wikipedia.org/wiki/Melinda_Shankar\" class=\"extiw\" title=\"w:Melinda Shankar\">Melinda Shankar</a> (How to be Indie 2).\n</p><p>On March 1, 2013, the CFC, in support of the Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image259.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Canadian Screen Award nominee Erin Karpluk (Being Erica). \n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">cfccreates.com/about_us/photos1/canadian_screen_awards_no...</a>",
+    "credits": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46708114@N07\">Canadian Film Centre</a> from Toronto, Canada / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  },
+  {
+    "filename": "image260.jpg",
+    "lat": 43.651,
+    "lng": -79.347,
+    "year": 2013,
+    "date": "2013-03-01",
+    "description": "<p>Katie Boland (The Master)\n</p><p>On March 1, 2013, the CFC, in support of the The Academy of Canadian Cinema &amp; Television (Academy), celebrated Canadian talent at the Canadian Screen Awards Nominee Reception. \n</p><p>Academy's new Canadian Screen Awards recognize excellence in film, television and digital media productions. This marked the inaugural year for the Canadian Screen Awards.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php\">http://cfccreates.com/about_us/photos1/canadian_screen_awards_nominee_reception.php</a>\" rel=\"nofollow\"&gt;cfccreates.com/about_us/photos1/canadian_screen_awards_no...&lt;/a&gt;",
+    "credits": "<a href=\"//www.flickr.com/people/46708114@N07\" class=\"extiw\" title=\"flickruser:46708114@N07\">Canadian Film Centre</a> / Wikimedia Commons / CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+    "city": "Toronto"
+  }
+]
